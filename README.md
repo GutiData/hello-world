@@ -1,4 +1,4 @@
 # hello-world
 Initial stage
 GutiData joining this collaborative space
-coming from two mining world: the natural resurces industry and data
+mining data in the the natural resources industry (mining in mining)
